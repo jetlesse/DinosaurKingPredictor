@@ -1,0 +1,8 @@
+- !General
+  my_dino: Carnotaurus
+  show_screen: False
+  fps: 60
+  save: False
+  window_name: melonDS 0.9.3
+  filename:
+  start_time: 0:00:00

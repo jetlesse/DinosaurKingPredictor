@@ -1,0 +1,66 @@
+- !BottomScreen
+  bottom_screen_start:
+    - !!python/tuple
+      - 0
+      - 596
+  bottom_screen_end:
+    - !!python/tuple
+      - 767
+      - 1169
+  rock_x: 383
+  rock_y: 728
+  rock_r: 70
+  paper_x: 496
+  paper_y: 925
+  paper_r: 70
+  scissor_x: 270
+  scissor_y: 925
+  scissor_r: 70
+  text_box_x1: 19
+  text_box_x2: 748
+  text_box_y1: 1002
+  text_box_y2: 1147
+  corner_trim_x1: 15
+  corner_trim_x2: 23
+  corner_trim_y1: 607
+  corner_trim_y2: 613
+  arrow_x1: 690
+  arrow_x2: 748
+  arrow_y1: 1117
+  arrow_y2: 1147
+  attacks: 3
+
+- !BottomScreen
+  bottom_screen_start:
+    - !!python/tuple
+      - 0
+      - 596
+  bottom_screen_end:
+    - !!python/tuple
+      - 767
+      - 1169
+  rock_x: 383
+  rock_y: 713
+  rock_r: 70
+  paper_x: 534
+  paper_y: 863
+  paper_r: 70
+  scissor_x: 234
+  scissor_y: 863
+  scissor_r: 70
+  fourth_x: 383
+  fourth_y: 1012
+  fourth_r: 70
+  text_box_x1: 19
+  text_box_x2: 748
+  text_box_y1: 1002
+  text_box_y2: 1147
+  corner_trim_x1: 15
+  corner_trim_x2: 23
+  corner_trim_y1: 607
+  corner_trim_y2: 613
+  arrow_x1: 690
+  arrow_x2: 748
+  arrow_y1: 1117
+  arrow_y2: 1147
+  attacks: 4

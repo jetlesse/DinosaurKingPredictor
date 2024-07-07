@@ -1,0 +1,66 @@
+- !BottomScreen
+  bottom_screen_start:
+    - !!python/tuple
+      - 646
+      - 128
+  bottom_screen_end:
+    - !!python/tuple
+      - 1919
+      - 1079
+  rock_x: 1282
+  rock_y: 345
+  rock_r: 115
+  paper_x: 1470
+  paper_y: 672
+  paper_r: 115
+  scissor_x: 1095
+  scissor_y: 672
+  scissor_r: 115
+  text_box_x1: 678
+  text_box_x2: 1887
+  text_box_y1: 801
+  text_box_y2: 1042
+  corner_trim_x1: 672
+  corner_trim_x2: 684
+  corner_trim_y1: 147
+  corner_trim_y2: 156
+  arrow_x1: 1791
+  arrow_x2: 1887
+  arrow_y1: 993
+  arrow_y2: 1042
+  attacks: 3
+
+- !BottomScreen
+  bottom_screen_start:
+    - !!python/tuple
+      - 431
+      - 85
+  bottom_screen_end:
+    - !!python/tuple
+      - 1279
+      - 719
+  rock_x: 0
+  rock_y: 0
+  rock_r: 0
+  paper_x: 0
+  paper_y: 0
+  paper_r: 0
+  scissor_x: 0
+  scissor_y: 0
+  scissor_r: 0
+  fourth_x: 0
+  fourth_y: 0
+  fourth_r: 0
+  text_box_x1: 452
+  text_box_x2: 1258
+  text_box_y1: 534
+  text_box_y2: 695
+  corner_trim_x1: 448
+  corner_trim_x2: 456
+  corner_trim_y1: 98
+  corner_trim_y2: 104
+  arrow_x1: 1194
+  arrow_x2: 1258
+  arrow_y1: 662
+  arrow_y2: 695
+  attacks: 4

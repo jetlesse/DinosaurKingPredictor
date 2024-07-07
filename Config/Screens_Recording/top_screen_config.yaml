@@ -1,0 +1,78 @@
+- !TopScreen
+  top_screen_start:
+  - !!python/tuple
+    - 0
+    - 0
+  top_screen_end:
+  - !!python/tuple
+    - 646
+    - 498
+  rock_x: 505
+  rock_y: 160
+  rock_r: 45
+  paper_x: 578
+  paper_y: 286
+  paper_r: 45
+  scissor_x: 432
+  scissor_y: 286
+  scissor_r: 45
+  my_attack_x: 202
+  my_attack_y: 241
+  my_attack_r: 59
+  their_attack_x: 445
+  their_attack_y: 241
+  their_attack_r: 59
+  my_name_x1: 225
+  my_name_x2: 630
+  my_name_y1: 406
+  my_name_y2: 439
+  their_name_x1: 16
+  their_name_x2: 400
+  their_name_y1: 43
+  their_name_y2: 76
+  text_box_x1: 16
+  text_box_x2: 630
+  text_box_y1: 342
+  text_box_y2: 465
+  attacks: 3
+
+- !TopScreen
+  top_screen_start:
+  - !!python/tuple
+    - 0
+    - 0
+  top_screen_end:
+    - !!python/tuple
+      - 431
+      - 332
+  rock_x: 0
+  rock_y: 0
+  rock_r: 0
+  paper_x: 0
+  paper_y: 0
+  paper_r: 0
+  scissor_x: 0
+  scissor_y: 0
+  scissor_r: 0
+  fourth_x: 0
+  fourth_y: 0
+  fourth_r: 0
+  my_attack_x: 135
+  my_attack_y: 161
+  my_attack_r: 40
+  their_attack_x: 297
+  their_attack_y: 161
+  their_attack_r: 40
+  my_name_x1: 150
+  my_name_x2: 420
+  my_name_y1: 270
+  my_name_y2: 292
+  their_name_x1: 11
+  their_name_x2: 267
+  their_name_y1: 28
+  their_name_y2: 50
+  text_box_x1: 11
+  text_box_x2: 420
+  text_box_y1: 228
+  text_box_y2: 310
+  attacks: 4

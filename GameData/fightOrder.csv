@@ -1,0 +1,47 @@
+id
+0000,Player,Used,player,Player
+1001,Europe,North,robot_1,Europe N - Robot 1
+1101,Europe,NorthDigSite,robot_1,North Dig Site - Robot 1
+1102,Europe,NorthDigSite,robot_2,North Dig Site - Robot 2
+1103,Europe,NorthDigSite,Laura,North Dig Site - Laura
+1201,Europe,South,robot_1,Europe S - Robot 1
+1202,Europe,South,robot_garden,Europe S - Robot Garden
+1302,Europe,OldSCoalMine,robot_2,Old S Coal Mine - Robot 2
+1301,Europe,OldSCoalMine,robot_1,Old S Coal Mine - Robot 1
+1303,Europe,OldSCoalMine,Ed,Old S Coal Mine - Ed
+2001,Asia,South,robot_1,Asia S - Robot 1
+2002,Asia,South,robot_2,Asia S - Robot 2
+2101,Asia,DarkwoodForest,robot_1,Darkwood Forest - Robot 1
+2102,Asia,DarkwoodForest,Rod,Darkwood Forest - Rod
+2103,Asia,DarkwoodForest,robot_2,Darkwood Forest - Robot 2
+2201,Asia,East,robot_1,Asia E - Robot 1
+2202,Asia,East,robot_2,Asia E - Robot 2
+2301,Asia,WanderwoodForest,robot_1,Wanderwood Forest - Robot 1
+2302,Asia,WanderwoodForest,robot_2,Wanderwood Forest - Robot 2
+2303,Asia,WanderwoodForest,robot_3,Wanderwood Forest - Robot 3
+2304,Asia,WanderwoodForest,Zander,Wanderwood Forest - Zander
+3001,NAmerica,West,robot_1,N. America W - Robot 1
+3101,NAmerica,AlphaGangDepot,robot_1,Alpha Gang Depot - Robot 1
+3102,NAmerica,AlphaGangDepot,robot_2,Alpha Gang Depot - Robot 2
+3103,NAmerica,AlphaGangDepot,robot_3,Alpha Gang Depot - Robot 3
+3201,NAmerica,South,robot_1,N. America S - Robot 1
+3301,NAmerica,AlphaGangBase,robot_1,Alpha Gang Base - Robot 1
+3302,NAmerica,AlphaGangBase,robot_2,Alpha Gang Base - Robot 2
+3303,NAmerica,AlphaGangBase,Ursula,Alpha Gang Base - Ursula
+3202,NAmerica,South,robot_2,N. America S - Robot 2
+3401,NAmerica,Warehouse,robot_1,Warehouse - Robot 1
+3402,NAmerica,Warehouse,robot_2,Warehouse - Robot 2
+3403,NAmerica,Warehouse,Seth,Warehouse - Seth
+4001,Antarctica,Headquarters,Laura,Headquarters - Laura
+4003,Antarctica,Headquarters,Ed,Headquarters - Ed
+4009,Antarctica,Headquarters,robot_3,Headquarters - Robot 3
+4002,Antarctica,Headquarters,Ursula,Headquarters - Ursula
+4008,Antarctica,Headquarters,robot_2,Headquarters - Robot 2
+4007,Antarctica,Headquarters,robot_1,Headquarters - Robot 1
+4004,Antarctica,Headquarters,Rod,Headquarters - Rod
+4010,Antarctica,Headquarters,robot_4,Headquarters - Robot 4
+4012,Antarctica,Headquarters,robot_6,Headquarters - Robot 6
+4005,Antarctica,Headquarters,Zander,Headquarters - Zander
+4011,Antarctica,Headquarters,robot_5,Headquarters - Robot 5
+4006,Antarctica,Headquarters,Seth,Headquarters - Seth
+4013,Antarctica,Headquarters,DRZ,Headquarters - DR. Z

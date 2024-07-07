@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# don't track models
+GameData/Models/*
+
+# ignore pycache
+__pycache__/*
+*/__pycache__/*
+
+# ignore pycharm environment
+.idea

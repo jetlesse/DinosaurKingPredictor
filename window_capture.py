@@ -14,7 +14,7 @@ class WindowCapture:
     offset_x = 0
     offset_y = 0
 
-    def __init__(self, hwnd):
+    def __init__(self, hwnd, border_pixels, titlebar_pixels):
         # find the handle for the window we want to capture
         self.hwnd = hwnd
 
@@ -24,9 +24,6 @@ class WindowCapture:
         self.h = window_rect[3] - window_rect[1]
 
         # account for the window border and titlebar and cut them off
-        # if the captured screen is not fully read, modify the values here.
-        border_pixels = 8
-        titlebar_pixels = 30
         self.w = self.w - (border_pixels * 2)
         self.h = self.h - titlebar_pixels - border_pixels
         self.cropped_x = border_pixels

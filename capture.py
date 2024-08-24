@@ -51,7 +51,7 @@ class VideoCapture(Capture):
 
 
 class WindowCapture(Capture):
-    def __init__(self, window_name):
+    def __init__(self, window_name, border_pixels, titlebar_pixels):
         self.game_hwnd = 0
         # gets list of all available windows
         self.windows_list = []
@@ -63,7 +63,7 @@ class WindowCapture(Capture):
                 self.game_hwnd = hwnd
 
         # create new WindowCapture using the window handle
-        self.wc = window_capture.WindowCapture(self.game_hwnd)
+        self.wc = window_capture.WindowCapture(self.game_hwnd, border_pixels, titlebar_pixels)
 
     def next_frame(self):
         return self.wc.get_screenshot()

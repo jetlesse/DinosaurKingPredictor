@@ -4,5 +4,7 @@
   fps: 60
   save: False
   window_name: melonDS 0.9.3
+  border_pixels: 8
+  titlebar_pixels: 30
   filename:
   start_time: 0:00:00

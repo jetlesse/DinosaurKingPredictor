@@ -17,7 +17,7 @@ class Setup:
         self.top_screen = top_screen
         self.bottom_screen = bottom_screen
         if input_type == "Live" and getattr(cfg, "window_name", None):
-            self.cap = capture.WindowCapture(cfg.window_name)
+            self.cap = capture.WindowCapture(cfg.window_name, cfg.border_pixels, cfg.titlebar_pixels)
         elif input_type == "Recording" and getattr(cfg, "filename", None) and getattr(cfg, "start_time", None):
             self.cap = capture.VideoCapture(cfg.filename, cfg.fps)
             self.cap.jump_to(cfg.start_time)

@@ -108,7 +108,7 @@ class Engine:
                     f.write("saying,my_last_move,their_last_move,my_rock,my_paper,my_scissor,"
                             "their_rock,their_paper,their_scissor,my_dino,their_dino,their_move\n")
 
-        cap = capture.WindowCapture(cfg.window_name)
+        cap = capture.WindowCapture(cfg.window_name, cfg.border_pixels, cfg.titlebar_pixels)
 
         self.classifier = fight.load_classifier()
         self.turn_state = 0

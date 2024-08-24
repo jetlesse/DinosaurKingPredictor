@@ -192,11 +192,13 @@ class BottomScreenConfig(yaml.YAMLObject):
 class GeneralConfig(yaml.YAMLObject):
     yaml_tag = '!General'
 
-    def __init__(self, my_dino=None, show_screen=False, filename="", window_name="", fps=60, start_time="0:00:00", save=True):
+    def __init__(self, my_dino=None, show_screen=False, filename="", window_name="", border_pixels=0, titlebar_pixels=0, fps=60, start_time="0:00:00", save=True):
         self.my_dino = my_dino
         self.show_screen = show_screen
         self.filename = filename
         self.window_name = window_name
+        self.border_pixels = border_pixels
+        self.titlebar_pixels = titlebar_pixels
         self.fps = fps
         self.save = save
         self.start_time = start_time

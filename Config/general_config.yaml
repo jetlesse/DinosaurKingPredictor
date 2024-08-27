@@ -2,7 +2,7 @@
   my_dino: Carnotaurus
   show_screen: False
   fps: 60
-  save: False
+  save: True
   window_name: melonDS 0.9.3
   border_pixels: 8
   titlebar_pixels: 30
